@@ -1,2 +1,2 @@
 # Color-Picker-Extension
-YOu can download it [here](https://chrome.google.com/webstore/detail/colorscape/ghlgaejkolmmgfknlchphhlkpkfmfdmo)
+You can download the extension [here](https://chrome.google.com/webstore/detail/colorscape/ghlgaejkolmmgfknlchphhlkpkfmfdmo)
